@@ -1,16 +1,15 @@
-# cats
+### Facts about cats
 
-A new Flutter project.
+Мой основной файл находится в папке bin
 
-## Getting Started
+### Outputs:
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/63393a0c-6ec5-4479-996c-d3a5d225bbdf)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/d9a703af-c125-43af-bfc9-19ba11771ba4)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/341c6877-358a-44ac-936b-2b90a28653fb)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/6fe69afa-ad72-4c95-9af9-fa4191770076)
+
+![image](https://github.com/user-attachments/assets/3512ac5c-5e19-4b22-a2cf-21a330f78512)
